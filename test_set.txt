@@ -1,0 +1,549 @@
+﻿C'est sa faute.	1
+我不太確定我們是否能夠滿足你的要求。	2
+Я спал на улице.	3
+Tom zaczął krzyczeć o pomoc.	4
+Onde você estará?	5
+トムはいつもお金に困っている。	6
+Semplificatela.	7
+תביאו אתכם ארוחת צהרים בשקית.	8
+Ich möchte, dass du dableibst.	9
+This is his house.	0
+C'est sa maison.	1
+我不懂為何義式辣腸披薩如此受歡迎。	2
+Я спал во дворе.	3
+Tom nauczył Mary prowadzić.	4
+Aonde você irá?	5
+トムが前の奥さんとより戻したんだって。	6
+Lo semplifichi.	7
+תביא את הארנק שלך.	8
+Ich möchte, dass Sie dableiben.	9
+This is how it is.	0
+C'est ainsi.	1
+我感觉你想告诉我什么事。	2
+Я чую неприятности.	3
+Tom nauczył mnie, jak to robić.	4
+Aonde tu irás?	5
+トムはメアリーにいじめられている。	6
+La semplifichi.	7
+אבל נזהרתי.	8
+Ich möchte, dass ihr dableibt.	9
+This is important.	0
+C'est important.	1
+當雨開始下得很大的時候, 我幾乎不能出門了。	2
+Я чую беду.	3
+Tom sądzi, że ci się spodoba.	4
+Onde o Tom está indo?	5
+トムは全く頼りにならない。	6
+Fai la tua mossa.	7
+תזמין אמבולנס.	8
+Ich wollte rote Schuhe.	9
+This is insulting.	0
+C'est insultant.	1
+我听说你通过了入学考试。恭喜你了！	2
+Я улыбнулся Тому.	3
+Tom myślał, że to zabawa.	4
+Onde o Tom está hoje?	5
+トムは冗談がうまい。	6
+Faccia la sua mossa.	7
+התקשרי אליה מחר.	8
+Ich wollte nein sagen.	9
+This is irregular.	0
+C'est irrégulier.	1
+我在回答之前必须考虑周全。	2
+Я говорю по-английски.	3
+Tom rzucił w Mary śnieżką.	4
+Onde está o carro de Tom?	5
+トムは正直なので好きだ。	6
+Fate la vostra mossa.	7
+צלצל לבית החולים.	8
+Ich war ein dickliches Kind.	9
+This is justified.	0
+C'est justifié.	1
+我是倒数第二个得知这个坏消息的。	2
+Я говорю по-испански.	3
+Tom powiedział Mary, by przestała jeść.	4
+Cadê todo mundo?	5
+トムは仕事でボストンにいる。	6
+Un sacco di pesci sono morti.	7
+צלצל לאחיך.	8
+Ich lag fast richtig.	9
+This is ludicrous.	0
+C'est absurde.	1
+暑假期间，我在邮局工作。	2
+Я уставился на Тома.	3
+Tom powiedział Mary, czego ma nie robić.	4
+Onde está todo mundo?	5
+トムはちょっとだけ緊張してる。	6
+Molti pesci sono morti.	7
+אפשר לחייג ישיר?	8
+Ich wurde darum gebeten zu lügen.	9
+This is ludicrous.	0
+C'est ridicule.	1
+我想试试这件。请问哪里是试衣间？	2
+Я остаюсь в Осаке.	3
+Tom powiedział mi o tym miejscu.	4
+Onde estão todos?	5
+トムはメアリーよりもずっと背が高い。	6
+Molti pesci morirono.	7
+אני יכולה לעשות משהו?	8
+Ich war auf der Party.	9
+This is messed up.	0
+C'est foutu.	1
+我现在富得能买我想要的任何东西。	2
+Я остался внутри.	3
+Tom powiedział, że mnie kocha.	4
+Onde está o meu pai?	5
+トムはおもちゃで遊んでいる。	6
+Un sacco di pesci morirono.	7
+אני יכולה לעשות עותקים?	8
+Ich wurde 1960 geboren.	9
+This is messed up.	0
+C'est foiré.	1
+如果有问题，请举起你的右手。	2
+Я осталась внутри.	3
+Tom próbował pokłócić się z Mary.	4
+Cadê minha irmã?	5
+トムは短編小説を読んでいる。	6
+Mary è una bambola.	7
+האם כל ציפור יכולה לעוף?	8
+Ich wurde 1972 geboren.	9
+This is my choice.	0
+Je choisis ceci.	1
+如果你需要我的建议，我很愿意告诉你。	2
+Я остался сидеть.	3
+Tom wyłączył swoją lampkę nocną.	4
+Onde está a minha irmã?	5
+トムは短編を読んでいる。	6
+Mary è bionda.	7
+אנשים יכולים להשתנות?	8
+Ich wurde 1979 geboren.	9
+This is my driver.	0
+C'est mon chauffeur.	1
+如果你通過這個考試，你下個月就可以畢業了。	2
+Я промолчал.	3
+Tom włączył flesza.	4
+Cadê a minha carteira?	5
+トムは公園の中のどこかだ。	6
+Mary è adorabile.	7
+גם היא יכולה לבוא?	8
+Mein Geburtsjahr ist 1982.	9
+This is my family.	0
+C'est ma famille.	1
+在危險的時候你必須跟你的老師聯繫。	2
+Я до сих пор так делаю.	3
+Tom włączył lampę na stole.	4
+Onde fica a praia?	5
+トムはまだ入院している。	6
+Mary è carina.	7
+מישהו יכול לעזור?	8
+Ich bin 1982 geboren.	9
+This is my friend.	0
+C'est mon ami.	1
+据说他爸爸在外国去世了。	2
+Я изучаю испанский.	3
+Tom czekał dłuższą chwilę.	4
+Onde está o pão?	5
+トムは風邪をひいている。	6
+Piaci a Mary.	7
+אנו יכולים לקבוע מועד חדש?	8
+Ich wurde 1988 geboren.	9
+This is my mother.	0
+C'est ma mère.	1
+他来不来对我来说没区别。	2
+Я его поддерживал.	3
+Tom przeszedł przez most.	4
+Onde está o dinheiro?	5
+トムは癌を患っている。	6
+Tu piaci a Mary.	7
+אתה יכול לבוא לכאן?	8
+Ich wurde im Jahre 1988 geboren.	9
+This is my mother.	0
+C'est ma maman.	1
+在我看來，她有一種誇張的傾向。	2
+Я удивил Тома.	3
+Tom przeszedł przez dom.	4
+Onde é a festa?	5
+トムは最終試験を受けている。	6
+Piace a Mary.	7
+אתה יכול לבוא לפה?	8
+Ich war den ganzen Tag beschäftigt.	9
+This is my office.	0
+C'est mon bureau.	1
+安靜到連針掉在地上的聲音你都會聽得到。	2
+Я принимаю витамины.	3
+Tom chciał znać prawdę.	4
+Onde está o telefone?	5
+トムは分厚い眼鏡をかけている。	6
+Lei piace a Mary.	7
+אתה יכול לפרט?	8
+Ich war einmal verlobt.	9
+This is my pencil.	0
+Il s'agit de mon crayon.	1
+让我像这样继续下去是绝对不可能的。	2
+Я поговорил с Томом.	3
+Tom chciał się spotkać z Marią.	4
+Cadê o telefone?	5
+トムは怖いもの知らずだ。	6
+Piacete a Mary.	7
+אתה יכול לטפל בזה?	8
+Das habe ich erwartet!	9
+This is my school.	0
+C'est mon école.	1
+报纸看完后借我看下。	2
+Я говорил с Томом.	3
+Tom chciał powiedzieć prawdę.	4
+Onde está o seu chefe?	5
+トムは見かけほど歳は行っていない。	6
+Voi piacete a Mary.	7
+אתה מסוגל לטפל בזה?	8
+Ich war traurig.	9
+This is my sister.	0
+C'est ma sœur.	1
+玛丽总是说汤姆不够浪漫。	2
+Я поговорил с ней.	3
+Tom chce się z tobą spotkać.	4
+Onde está seu casaco?	5
+トムはメアリーに情熱的なキスをした。	6
+Posso mangiare questo?	7
+אתה יכול לקפוץ על חבל?	8
+Ich war niedergeschlagen.	9
+This is not funny.	0
+Ce n'est pas marrant.	1
+玛丽不穷，相反，她相当富裕。	2
+Я с ней поговорил.	3
+Tom chce pożyczyć twój samochód.	4
+Qual é o nosso carro?	5
+トムは手品をいくつか知っている。	6
+Posso andare per primo?	7
+אתה יודע לנגן טוב?	8
+Ich war deprimiert.	9
+This is not funny.	0
+Ce n'est pas amusant.	1
+自从手术后，我父亲一直处于良好的状态。	2
+Я преподаю китайский.	3
+Tom chce się wyrwać z miasta.	4
+Qual você quer?	5
+トムは椅子の背にもたれていた。	6
+Posso andare per prima?	7
+את יכולה לקרוא את זה?	8
+Ich war gezwungen zu gehen.	9
+This is not funny.	0
+Ce n'est pas drôle !	1
+我爸爸坚持要我去那地方看看。	2
+Я преподаю английский.	3
+Tom chce cię poznać.	4
+Qual é a sua caneta?	5
+トムはメアリーにお金を少し残してくれた。	6
+Posso aiutarla?	7
+אתה יכול להקריא את זה?	8
+Ich war beim Mittagessen.	9
+This is offensive.	0
+C'est offensant.	1
+我父亲常在吃饭时看报纸。	2
+Я обучаю испанскому.	3
+Tom chce wiedzieć, kto to zrobił.	4
+Qual é o meu?	5
+トムは97歳まで生きた。	6
+Posso aiutarti?	7
+אתה יכול לקרוא את זה?	8
+Ich war in dem Haus.	9
+This is offensive.	0
+C'est grossier.	1
+舅舅的公司上个月推出了一项新产品。	2
+Я преподаю испанский.	3
+Tom chce wiedzieć, kim jesteśmy.	4
+Qual é o seu?	5
+トムはその日暮らしの生活をしている。	6
+Posso aiutarvi?	7
+אתה יכול לסלק את זה?	8
+Ich war nur neugierig.	9
+This is our house.	0
+C'est notre maison.	1
+不管训练多么艰苦，她都没有哭过。	2
+Я преподаю историю.	3
+Tom chce, żebyśmy umarli razem z nim.	4
+Qual é a sua?	5
+トムは小さな村に住んでいる。	6
+Posso unirmi a te?	7
+אתה יכול להשאר זמן ממושך?	8
+Ich habe hier geheiratet.	9
+This is pointless.	0
+Ça n'a pas de sens.	1
+人们通常不喜欢他们不理解的事物。	2
+Я склонен согласиться.	3
+Tom chce, żebyśmy poszli do kościoła.	4
+Qual é o dente que dói?	5
+トムはその写真を見た。	6
+Posso unirmi a voi?	7
+את יכולה לשחות היטב?	8
+Ich war ein Mal verheiratet.	9
+This is priceless.	0
+C'est hors de prix.	1
+豬與人類的一些特性相同。	2
+Я склонна согласиться.	3
+Wiesz, Tom chce cię z powrotem.	4
+Quem comeu o pão?	5
+トムはよく電話で話す。	6
+Posso unirmi a lei?	7
+אתה יכול לקשור עניבת פרפר?	8
+Ich hatte eine Heidenangst.	9
+This is revolting.	0
+C'est révoltant.	1
+她迷路了，紧接着天开始下雨了。	2
+Думаю, я согласен.	3
+Tom chce twojego miejsca parkingowego.	4
+Quem acredita nisso?	5
+トムは黄色いスポーツカーを持っている。	6
+Posso baciarti?	7
+אתה יכול לתרגם?	8
+Ich war der einzige Mann.	9
+This is sickening.	0
+C'est écœurant.	1
+她跑得很快是为了赶上其他成员。	2
+По-моему, я толстый.	3
+Tom był starszym bratem Marii.	4
+Quem quebrou a xícara?	5
+トムはいつもの場所に車を停めた。	6
+Posso baciarvi?	7
+תוכל להשגיח על תום?	8
+Ich war die ganze Nacht auf.	9
+This is so boring.	0
+C'est tellement chiant.	1
+她的英語說得比班上任何人都好。	2
+По-моему, я толстая.	3
+Tom był trzecim mężem Marii.	4
+Quem quebrou a caneca?	5
+トムは65歳で退職した。	6
+Posso baciarla?	7
+תשיב את נשימתך.	8
+Ich sehe den ganzen Tag fern.	9
+This is so stupid.	0
+C'est tellement idiot !	1
+她是個又高又瘦, 留著一頭又長又軟的褐色頭髮的女孩。	2
+Думаю, этот в порядке.	3
+Tom zawsze był cichym dzieckiem.	4
+Quem cozinha para você?	5
+トムはベンチに座って煙草をふかしていた。	6
+Posso sedermi?	7
+שמפניה בבקשה.	8
+Ich wiege 130 Pfund.	9
+This is so unfair.	0
+C'est tellement injuste.	1
+她下周日回家，也就是10号。	2
+Я думаю, так нормально.	3
+Tom został zjedzony przez krokodyla.	4
+Quem cortou o seu cabelo?	5
+トムは私の２列前にすわっていた。	6
+Posso sedermi qui?	7
+טען את הטלפון שלך.	8
+Ich bin nach Nagasaki gegangen.	9
+This is tasteless.	0
+Ça n'a aucun goût.	1
+她練習英語以找更好的工作。	2
+Я тоже так думаю.	3
+Tom był schowany za krzakiem.	4
+Quem Tom trouxe?	5
+トムはとても興奮しているようだ。	6
+Posso usarlo?	7
+תבדוק את זה, תום.	8
+Ich bin zur Bank gegangen.	9
+This is temporary.	0
+C'est temporaire.	1
+自从他不知道该说什么的时候，便一直沉默着。	2
+Я выбросил это.	3
+Tom był mile zaskoczony.	4
+Com quem Tom se casou?	5
+トムはそれをすべきではなかった。	6
+Lo posso usare?	7
+תבחר אדם אחד.	8
+Ich ging zur Bank.	9
+This is too short.	0
+C'est trop court.	1
+他老了，所以这任务对他来说一定很难。	2
+Я выбросила это.	3
+Tom został pchnięty nożem.	4
+Quem disparou a arma?	5
+トムはときどきボストンに行く。	6
+Possiamo andare a casa?	7
+תבחרו בן אדם אחד.	8
+Ich ging ins Zimmer.	9
+This is too small.	0
+C’est trop petit.	1
+我們覺得很驚訝老虎隊竟然輸掉了比賽。	2
+Я выкинул это.	3
+Tom był doszczętnie załamany.	4
+Quem te deu isso?	5
+トムは昨日、メアリーに話をした。	6
+Forse è Tom.	7
+חג המולד מתקרב.	8
+Ich gehe voraus.	9
+This is true love.	0
+C'est l'amour vrai.	1
+公車突然在路中央停下來。	2
+Я выкинула это.	3
+Tom miał na sobie kołnierz ortopedyczny.	4
+Quem é aquela mulher?	5
+トムがやり方を教えてくれた。	6
+Gli uomini sono avidi.	7
+הכיתות קטנות.	8
+Ich werde dich beschützen.	9
+This is true love.	0
+C'est l'amour véritable.	1
+女孩在教室的角落啜泣。	2
+Я его выбросил.	3
+Tom nie mógł się spotkać z Mary.	4
+Quem é essa mulher?	5
+トムは、門を閉めるよう私に言いました。	6
+L'ha fatto mio fratello.	7
+תנקה את החדר.	8
+Ich werde ein Buch lesen.	9
+This is true love.	0
+C'est l'amour, le vrai.	1
+最后一个听我说我的主意的人认为我疯了。	2
+Я её выбросил.	3
+Tom nie był na to przygotowany.	4
+Quem fez esta torta?	5
+トムはメアリーがどこに住んでいるか教えてくれた。	6
+La mia macchina è sporca.	7
+סגור את המגירה ההיא.	8
+Ich werde Kyoto besuchen.	9
+This is very easy.	0
+C'est fort aisé.	1
+警方會把你關在牢裡二十年。	2
+Я его выкинул.	3
+Tom wrócił do sypialni.	4
+Quem pediu pizza?	5
+トムは以前、メアリーと一緒によく出かけていた。	6
+La mia auto è sporca.	7
+אסוף את הציוד שלך.	8
+Ich wünschte, ich hätte ein Auto.	9
+This is very good.	0
+C'est très bon.	1
+王子愛上了一個樵夫的女兒。	2
+Я её выкинул.	3
+Tom wyjechał na trzydniową wycieczkę.	4
+De quem é aquele carro?	5
+トムは以前、メアリーとよくデートしていた。	6
+La mia automobile è sporca.	7
+תתקרב קצת.	8
+Schön wär’s, wenn ich ein Auto hätte.	9
+This is very good.	0
+C'est très bien.	1
+这位老师用试验论证了这个想法。	2
+Я говорил это Тому.	3
+Tom poszedł z Mary do kościoła.	4
+Quem lembra dele?	5
+トムは通りを横切った。	6
+La mia scrivania è vecchia.	7
+תחזור מתי שתרצה.	8
+Ich hätte so gerne einen Hund.	9
+This is very good.	0
+C’est très bon.	1
+老师按照身高给孩子们排队。	2
+Я принял душ.	3
+Tom pojechał z Mary do Bostonu.	4
+Quem se lembra dele?	5
+トムは父親に虐待された。	6
+Il mio cane ha morso Tom.	7
+התקרבי אלי.	8
+Ich wünschte, ich hätte das gewusst!	9
+This is very true.	0
+C'est vrai de vrai.	1
+在德國北部有很多美麗的城堡？	2
+Я приняла душ.	3
+Tom będzie tu za chwilę.	4
+Quem dirige o espetáculo?	5
+トムはボストンで育ちました。	6
+Il mio cane morse Tom.	7
+גש הנה מיד.	8
+Ich wünschte, ich wäre tot.	9
+This is very true.	0
+C'est très vrai.	1
+沒有比失去孩子更讓人悲傷的事。	2
+Я взял книгу.	3
+Tom zastanawiał się, co Mary miała na myśli.	4
+Quem te mandou aqui?	5
+トムは床に座っていた。	6
+I miei capelli sono bagnati.	7
+בוא הנה מהר.	8
+Ich wünschte, ich wäre reich.	9
+This is worrisome.	0
+C'est inquiétant.	1
+他們說她和她的丈夫不可能對任何事達成協議。	2
+Я взяла книгу.	3
+Tom martwi się swoją wagą.	4
+Quem te mandou isso?	5
+真の友情は千金にも代え難い。	6
+Mi fa prurito la mano.	7
+בוא הביתה תכף ומיד.	8
+Schön wär’s, wenn ich reich wäre.	9
+This is your book.	0
+C'est ton livre.	1
+他们今天下午2点会举行一个会议。	2
+Я порвал мои брюки.	3
+Szef Toma jest bardzo wymagający.	4
+Quem te enviou isso?	5
+チューリップは今が満開です。	6
+Ho prurito alla mano.	7
+תיכנס, אני עומד על כך.	8
+Ich würde mich gern mit ihr treffen.	9
+This is your fate.	0
+C'est ton destin.	1
+這裡是我餘生想待的地方	2
+Я порвала мои брюки.	3
+Rodzina Toma mieszka w Bostonie.	4
+Quem fala francês?	5
+音量を下げてください。	6
+Mi prude la mano.	7
+תיכנסי, אני עומד על כך.	8
+Schön wär’s, wenn wir Zeit hätten.	9
+This is your fate.	0
+C'est ta destinée.	1
+汤姆和玛丽甚至经常穿同样颜色的衣服。	2
+Я разодрал себе штаны.	3
+Toma ulubiony kolor to niebieski.	4
+Quem roubou as minhas chaves?	5
+ボリュームを下げてください。	6
+Il mio cuore è dolente.	7
+כנס לחדר שלי.	8
+Ich bin zu spät aufgewacht.	9
+This is your fate.	0
+C'est ton sort.	1
+Tom在离这里不远的一家商店里买了一台相机。	2
+Я совершенно согласен.	3
+Podpis Toma jest nieczytelny.	4
+Quem te surpreendeu?	5
+音を小さくしてください。	6
+Mi fa male la mascella.	7
+נו, חברה.	8
+Ich werde dir nicht helfen.	9
+This is your fate.	0
+C'est votre sort.	1
+汤姆今天来得比往常要早一些。	2
+Полностью согласна.	3
+Portfel Toma jest prawie pusty.	4
+Quem disse isso ao Tom?	5
+最初の信号を左へ曲がって下さい。	6
+Il mio nome è Tom.	7
+נו באמת, תודה בכך.	8
+Ich werde euch nicht helfen.	9
+This is your fate.	0
+C'est votre destinée.	1
+汤姆已经在这里了，但玛丽还没到。	2
+Полностью согласен.	3
+Tom, chcę, żebyś to miał.	4
+Quem te disse isso?	5
+もう少しラジオの音を小さくしてくれません。	6
+Mi chiamo Tom.	7
+נו באמת, תודי בכך.	8
+Ich werde Ihnen nicht helfen.	9
+This is your fate.	0
+C'est votre destin.	1
+汤姆用尽了火柴，不能点火了。	2
+Я абсолютно согласен.	3
+Tom, czujesz się dobrze?	4
+Quem quer uma bebida?	5
+UN は United Nations の略です。	6
+Io mi chiamo Tom.	7
+נו באמת, תודו בכך.	8
+Ich werde es nicht bestätigen.	9
